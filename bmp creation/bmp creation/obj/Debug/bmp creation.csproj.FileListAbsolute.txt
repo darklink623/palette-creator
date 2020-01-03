@@ -1,0 +1,10 @@
+D:\nbarb\Documents\Visual Studio Projects\bmp creation\bmp creation\bin\Debug\bmp creation.exe.config
+D:\nbarb\Documents\Visual Studio Projects\bmp creation\bmp creation\bin\Debug\bmp creation.exe
+D:\nbarb\Documents\Visual Studio Projects\bmp creation\bmp creation\bin\Debug\bmp creation.pdb
+D:\nbarb\Documents\Visual Studio Projects\bmp creation\bmp creation\obj\Debug\bmp creation.csprojAssemblyReference.cache
+D:\nbarb\Documents\Visual Studio Projects\bmp creation\bmp creation\obj\Debug\bmp_creation.Form1.resources
+D:\nbarb\Documents\Visual Studio Projects\bmp creation\bmp creation\obj\Debug\bmp_creation.Properties.Resources.resources
+D:\nbarb\Documents\Visual Studio Projects\bmp creation\bmp creation\obj\Debug\bmp creation.csproj.GenerateResource.cache
+D:\nbarb\Documents\Visual Studio Projects\bmp creation\bmp creation\obj\Debug\bmp creation.csproj.CoreCompileInputs.cache
+D:\nbarb\Documents\Visual Studio Projects\bmp creation\bmp creation\obj\Debug\bmp creation.exe
+D:\nbarb\Documents\Visual Studio Projects\bmp creation\bmp creation\obj\Debug\bmp creation.pdb
