@@ -47,7 +47,7 @@ namespace bmp_creation
 			}
 			else
 			{
-				Close();
+				ActiveForm.Close();
 			}
 
 			// get palette from the image and create buttons with those colors. more than 16 colors will not work
@@ -120,8 +120,6 @@ namespace bmp_creation
 			}
 			return -1;
 		}
-
-
 
 		private void generateBitmap(Color pixel, Color replacement)
 		{
